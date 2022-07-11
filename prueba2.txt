@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hola
-=======
 Hola;
->>>>>>> 0e78bb1612767fb79efc86ddd2a074b2746df1ae
