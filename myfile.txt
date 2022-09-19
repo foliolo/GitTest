@@ -1,4 +1,3 @@
-MY FILE
 This is some text
 Esadsf (Estos cambios van a generar conflicto - tarea 3) prueba
 Esto es una prueba ma
@@ -7,3 +6,4 @@ Esto es una pruex:
 Esto genera un Conflicto
 Cambios en este fichero tambien
 Esto va a generar un conflicto precioso!
+MY FILE
