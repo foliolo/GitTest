@@ -6,3 +6,4 @@ Esto es una pruex:
 Esto genera un Conflicto
 Cambios en este fichero tambien
 Esto va a generar un conflicto precioso!
+MY FILE
